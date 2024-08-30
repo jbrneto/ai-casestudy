@@ -12,6 +12,6 @@ This repo contains study cases involving IA applications that I tested over the 
 - Char-based RNN/GRU [textgeneration.ipynb](textgeneration.ipynb)
 - Spanish-to-English translation with Attention-based [seq2seq.ipynb](seq2seq.ipynb)
 - Portuguese-to-English translation with Self-attention [transformer.ipynb](transformer.ipynb)
-- Material porosity prediction using its [reflectancespectrum.ipynb](reflectance_spectrum.ipynb)
+- Material porosity prediction using its [reflectancespectrum.ipynb](reflectancespectrum.ipynb)
 
 *word2vec not finished*
