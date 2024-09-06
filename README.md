@@ -13,6 +13,6 @@ This repo contains study cases involving IA applications that I tested over the 
 - Spanish-to-English translation with Attention-based [seq2seq.ipynb](seq2seq.ipynb)
 - Portuguese-to-English translation with Self-attention [transformer.ipynb](transformer.ipynb)
 - Material porosity prediction using its [reflectancespectrum.ipynb](reflectancespectrum.ipynb)
-- Using Quantization and Lora to [finetunellama.ipynb](finetunellama.ipynb) LLM model
+- Using QLoRA (Quantization and LoRA) to [finetunellama.ipynb](finetunellama.ipynb) LLM model
 
 <!--word2vec not finished-->
