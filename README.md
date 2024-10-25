@@ -14,5 +14,6 @@ This repo contains study cases involving IA applications that I tested over the 
 - Portuguese-to-English translation with Self-attention [transformer.ipynb](transformer.ipynb)
 - Material porosity prediction using its [reflectancespectrum.ipynb](reflectancespectrum.ipynb)
 - Using QLoRA (Quantization and LoRA) to [finetunellama.ipynb](finetunellama.ipynb) LLM model
+- House price range classification using a [multiinputmodel.ipynb](multiinputmodel.ipynb)
 
 <!--word2vec not finished-->
